@@ -21,14 +21,17 @@ The dataset used in this project is a **simulated retail transaction dataset** c
 
 The dataset contains approximately **99,000 transaction records** and includes fields such as:
 
-- Customer ID  
-- Product Name  
-- Product Category  
-- Quantity Purchased  
-- Price  
-- Revenue  
-- Transaction Date  
+## Dataset Columns
 
+| Column | Description |
+|------|-------------|
+| Customer_ID | Unique identifier for each customer |
+| Product | Product purchased |
+| Category | Product category |
+| Quantity | Number of units purchased |
+| Price | Price per unit |
+| Revenue | Total transaction value |
+| Transaction_Date | Date of purchase |
 ---
 
 ## Tools & Technologies
@@ -92,5 +95,23 @@ Customer-focused analytics including:
 - Revenue distribution follows a **Pareto pattern**, where a smaller group of customers drives a large share of sales.
 
 ---
+## Future Improvements
 
+- Implement customer segmentation using RFM analysis
+- Add predictive modeling for sales forecasting
+- Integrate real-time retail data sources
+- Build an automated ETL pipeline for continuous data updates
+
+---
 ## Repository Structure
+
+## How to Run the Project
+
+1. Clone the repository:
+   git clone https://github.com/Rishav-20/retail-sales-customer-analytics-dashboard.git
+
+2. Navigate to the project folder
+
+3. Open the Jupyter Notebook in the `notebooks` folder and run the analysis
+
+4. Open the Tableau dashboard file located in the `dashboard` folder to explore the visualizations
