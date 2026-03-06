@@ -95,14 +95,6 @@ Customer-focused analytics including:
 - Revenue distribution follows a **Pareto pattern**, where a smaller group of customers drives a large share of sales.
 
 ---
-## Future Improvements
-
-- Implement customer segmentation using RFM analysis
-- Add predictive modeling for sales forecasting
-- Integrate real-time retail data sources
-- Build an automated ETL pipeline for continuous data updates
-
----
 ## Repository Structure
 
 ## How to Run the Project
@@ -115,3 +107,15 @@ Customer-focused analytics including:
 3. Open the Jupyter Notebook in the `notebooks` folder and run the analysis
 
 4. Open the Tableau dashboard file located in the `dashboard` folder to explore the visualizations
+
+---
+## Future Improvements
+
+- Implement customer segmentation using RFM analysis
+- Add predictive modeling for sales forecasting
+- Integrate real-time retail data sources
+- Build an automated ETL pipeline for continuous data updates
+
+---
+## Author
+Rishav Sharma
