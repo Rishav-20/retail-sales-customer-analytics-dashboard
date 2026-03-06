@@ -67,7 +67,13 @@ The dataset contains approximately **99,000 transaction records** and includes f
    - Built interactive dashboards in Tableau to visualize insights.
 
 ---
+## Project Architecture
 
+The project follows a typical data analytics workflow:
+
+Data Sources → Data Cleaning (Python) → Exploratory Analysis → SQL Analysis → Tableau Dashboard → Business Insights
+
+---
 ## Dashboard Overview
 
 ### 1. Retail Sales Performance Overview – 2024
