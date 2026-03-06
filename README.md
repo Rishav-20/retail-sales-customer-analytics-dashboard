@@ -96,7 +96,28 @@ Customer-focused analytics including:
 
 ---
 ## Repository Structure
-
+```
+retail-sales-customer-analytics-dashboard
+│
+├── dashboard
+│   └── Retail Analytics Dashboard – Sales & Customer Insights.twbx
+│
+├── data
+│   ├── bigbasket_products.csv
+│   └── retail_transactions_final.csv
+│
+├── images
+│   ├── sales_dashboard.png
+│   └── customer_dashboard.png
+│
+├── notebooks
+│   └── Retail_Data_Cleaning_and_EDA.ipynb
+│
+├── sql
+│   └── Retail_Sales_and_Customer_Analysis.sql
+│
+└── README.md
+```
 ## How to Run the Project
 
 1. Clone the repository:
