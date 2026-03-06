@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+
 This project analyzes retail sales performance and customer purchasing behavior using a simulated retail transaction dataset inspired by Blinkit-style grocery product categories. The objective is to uncover insights related to customer purchase patterns, product category performance, and revenue contribution across different customer segments.
 
 The analysis combines **Python, SQL, and Tableau** to perform data cleaning, exploratory analysis, and interactive dashboard visualization.
