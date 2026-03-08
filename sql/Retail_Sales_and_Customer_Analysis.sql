@@ -1,5 +1,5 @@
 /* ============================================================
-   RETAIL CUSTOMER BEHAVIOR ANALYSIS
+   Customer Behavior & Revenue Intelligence in Retail
    End-to-End SQL Business Intelligence Script
    Database: retail_project
    Author: Rishav Sharma
