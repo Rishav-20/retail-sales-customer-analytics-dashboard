@@ -1,4 +1,4 @@
-# Retail Sales & Customer Analytics Project
+# Customer Behavior & Revenue Intelligence in Retail
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
@@ -143,7 +143,6 @@ retail-sales-customer-analytics-dashboard
 ---
 ## Future Improvements
 
-- Implement customer segmentation using RFM analysis
 - Add predictive modeling for sales forecasting
 - Integrate real-time retail data sources
 - Build an automated ETL pipeline for continuous data updates
